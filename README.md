@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harishankar
-- 👀 I’m interested in Devops/cloud 
+- 👀 I’m interested in Azure Data Cloud/cloud 
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on ...
 
